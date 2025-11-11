@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-	<chanel>
+	<channel>
 		<tittle>Feria de viajes internacional.</tittle>
 		<link>https://lcasafus.github.io/Feria-de-viajes-con-Js/destinos.html</link>
 		<description>Conoce las publicaciones recientes acerca de la feria internacional de viajes, donde podrás seguir paso a paso las publicaciones recientes e información importante.</description>
@@ -10,5 +10,5 @@
 			<description>Encuentra las super ofertas a las que puedes acceder en este black friday.</description>
 			<pubDate>11/11/2025</pubDate>
 		</item>
-	</chanel>
+	</channel>
 </rss>
